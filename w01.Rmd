@@ -2,7 +2,14 @@
 title: "Week 1: Session name"
 ---
 
-# Learning Objectives:
+```{r, echo=FALSE, include=FALSE}
+library(kableExtra)
+library(knitr)
+library(tidyverse)
+```
+
+
+# Learning Objectives
 
 -
 -
@@ -12,10 +19,21 @@ title: "Week 1: Session name"
 
 Lorem ipsum dolor amet palo santo photo booth coloring book kogi, mustache small batch disrupt 3 wolf moon food truck meggings enamel pin shoreditch yr fam semiotics. Succulents iPhone echo park DIY marfa. Green juice art party tacos truffaut cred. Glossier tacos art party roof party craft beer cold-pressed air plant echo park asymmetrical keffiyeh. Copper mug stumptown migas vegan ennui. Taxidermy taiyaki hexagon, banh mi adaptogen health goth hella tilde etsy 3 wolf moon beard. Mustache kinfolk hell of art party echo park vice health goth venmo iceland skateboard heirloom DIY cold-pressed scenester thundercats.
 
+In stats, we sometimes use equations like this:
+
+$$\sum_{i=1}^n X_i$$
+
 # Data
 
 Lorem ipsum dolor amet palo santo photo booth coloring book kogi, mustache small batch disrupt 3 wolf moon food truck meggings enamel pin shoreditch yr fam semiotics. Succulents iPhone echo park DIY marfa. Green juice art party tacos truffaut cred. Glossier tacos art party roof party craft beer cold-pressed air plant echo park asymmetrical keffiyeh. Copper mug stumptown migas vegan ennui. Taxidermy taiyaki hexagon, banh mi adaptogen health goth hella tilde etsy 3 wolf moon beard. Mustache kinfolk hell of art party echo park vice health goth venmo iceland skateboard heirloom DIY cold-pressed scenester thundercats.
 
+```{r, echo=FALSE}
+kable(head(mtcars), "html") %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+```
+
+
+Download here: 
 
 # Slides
 

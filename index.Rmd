@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Welcome to case studies!"
 output: 
   html_document:
     toc_float: false

@@ -2,7 +2,7 @@
 title: "Week 8: Session name"
 ---
 
-# Learning Objectives:
+# Learning Objectives
 
 -
 -
