@@ -33,7 +33,7 @@ kable(head(mtcars), "html") %>%
 ```
 
 
-Download here: 
+Here's an exmaple of downloading a file stored in the github repository. [Click here](https://raw.githubusercontent.com/AmyRFinnegan/case-studies-demo/master/data/example.R)
 
 # Slides
 
