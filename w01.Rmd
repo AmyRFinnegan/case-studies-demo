@@ -40,6 +40,6 @@ Or you could share a file via [Box](https://duke.box.com/s/mlj6vgtxqqy8c0krw2t9j
 # Slides
 
 
-If you had slides to link to, you could do that by saving a file in your repository and linking to it like this: [Slide link.](decks/w01_deck.html)
+If you had slides to link to, you could do that by saving a file in your repository and linking to it like this: [slide link.](decks/w01_deck.html)
 
 Lorem ipsum dolor amet palo santo photo booth coloring book kogi, mustache small batch disrupt 3 wolf moon food truck meggings enamel pin shoreditch yr fam semiotics. Succulents iPhone echo park DIY marfa. Green juice art party tacos truffaut cred. Glossier tacos art party roof party craft beer cold-pressed air plant echo park asymmetrical keffiyeh. Copper mug stumptown migas vegan ennui. Taxidermy taiyaki hexagon, banh mi adaptogen health goth hella tilde etsy 3 wolf moon beard. Mustache kinfolk hell of art party echo park vice health goth venmo iceland skateboard heirloom DIY cold-pressed scenester thundercats.
